@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Vanja
-- 👀 I’m interested in technology, coding, music, sports and cinematography.
-- 🌱 I’m currently learning Redux.
-- 💞️ I’m looking to collaborate on any React/Next.js projects.
-- 📫 Reach me by sending an email to dulikravicvanja10@gmail.com.
+- Hi, I’m Vanja
+- I’m interested in technology, coding, music, sports and cinematography.
+- I’m currently learning Redux.
+- I’m looking to collaborate on any React/Next.js projects.
+- Reach me by sending an email to dulikravicvanja10@gmail.com.
