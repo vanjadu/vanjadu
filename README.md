@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Cactus Gift Shop](https://github.com/vanjadu/cactus-v2)
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **Django**
 
 - 📫 How to reach me **dulikravicvanja10@gmail.com**
 
