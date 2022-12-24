@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vanja</h1>
-<h3 align="center">I am a React/Next Front-End Developer, I also like doing some Back-End in Django.</h3>
+<h3 align="center">I am a React/Next Front-End Developer, I also like doing some Back-End in Django & Node.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vanjadu" alt="vanjadu" /></a> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently practicing **Django**
 
-- 👯 I’m looking to collaborate on **any React/Django projects.**
+- 👯 I’m looking to collaborate on **any Next/Django projects.**
 
 - 👨‍💻 All of my projects are available at [https://vanjadu.github.io/new-portfolio/](https://vanjadu.github.io/new-portfolio/)
 
